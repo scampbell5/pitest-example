@@ -6,7 +6,7 @@
     <property name="file.encoding.pkg" value="sun.io"/>
     <property name="jdk.extensions.version" value="15.0.2.0"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/seancampbell/Documents/Repositories/target/test-classes:/Users/seancampbell/Documents/Repositories/target/classes:/Users/seancampbell/.m2/repository/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar:/Users/seancampbell/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/seancampbell/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seancampbell/.m2/repository/com/openpojo/openpojo/0.8.13/openpojo-0.8.13.jar:"/>
+    <property name="java.class.path" value="/Users/seancampbell/Documents/Repositories/pitest-example/target/test-classes:/Users/seancampbell/Documents/Repositories/pitest-example/target/classes:/Users/seancampbell/.m2/repository/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar:/Users/seancampbell/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/seancampbell/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seancampbell/.m2/repository/com/openpojo/openpojo/0.8.13/openpojo-0.8.13.jar:"/>
     <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="com.ibm.vm.bitmode" value="64"/>
@@ -19,8 +19,8 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Users/seancampbell/Library/Java/JavaVirtualMachines/adopt-openj9-15.0.2/Contents/Home/lib/compressedrefs:/Users/seancampbell/Library/Java/JavaVirtualMachines/adopt-openj9-15.0.2/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/seancampbell/Documents/Repositories/target/surefire/surefirebooter14549110645386313587.jar /Users/seancampbell/Documents/Repositories/target/surefire 2021-03-16T12-00-29_907-jvmRun1 surefire7609775167251254805tmp surefire_014728863309266551334tmp"/>
-    <property name="surefire.test.class.path" value="/Users/seancampbell/Documents/Repositories/target/test-classes:/Users/seancampbell/Documents/Repositories/target/classes:/Users/seancampbell/.m2/repository/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar:/Users/seancampbell/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/seancampbell/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seancampbell/.m2/repository/com/openpojo/openpojo/0.8.13/openpojo-0.8.13.jar:"/>
+    <property name="sun.java.command" value="/Users/seancampbell/Documents/Repositories/pitest-example/target/surefire/surefirebooter4433427172321427492.jar /Users/seancampbell/Documents/Repositories/pitest-example/target/surefire 2021-03-16T19-37-52_990-jvmRun1 surefire12542911726804041763tmp surefire_014895155750311084785tmp"/>
+    <property name="surefire.test.class.path" value="/Users/seancampbell/Documents/Repositories/pitest-example/target/test-classes:/Users/seancampbell/Documents/Repositories/pitest-example/target/classes:/Users/seancampbell/.m2/repository/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar:/Users/seancampbell/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/seancampbell/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/seancampbell/.m2/repository/com/openpojo/openpojo/0.8.13/openpojo-0.8.13.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/seancampbell"/>
     <property name="user.language" value="en"/>
@@ -30,7 +30,7 @@
     <property name="ibm.signalhandling.rs" value="false"/>
     <property name="file.separator" value="/"/>
     <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
-    <property name="basedir" value="/Users/seancampbell/Documents/Repositories"/>
+    <property name="basedir" value="/Users/seancampbell/Documents/Repositories/pitest-example"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -38,7 +38,7 @@
     <property name="com.ibm.util.extralibs.properties" value=""/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="com.ibm.oti.configuration" value="scar"/>
-    <property name="surefire.real.class.path" value="/Users/seancampbell/Documents/Repositories/target/surefire/surefirebooter14549110645386313587.jar"/>
+    <property name="surefire.real.class.path" value="/Users/seancampbell/Documents/Repositories/pitest-example/target/surefire/surefirebooter4433427172321427492.jar"/>
     <property name="com.ibm.oti.shared.enabled" value="false"/>
     <property name="jdk.boot.class.path.append" value=""/>
     <property name="com.ibm.oti.vm.bootstrap.library.path" value="/Users/seancampbell/Library/Java/JavaVirtualMachines/adopt-openj9-15.0.2/Contents/Home/lib/compressedrefs:/Users/seancampbell/Library/Java/JavaVirtualMachines/adopt-openj9-15.0.2/Contents/Home/lib"/>
@@ -59,7 +59,7 @@
     <property name="java.io.tmpdir" value="/var/folders/g8/6gjq3js114g7v38zfmrjb2gh0000gn/T/"/>
     <property name="java.version" value="15.0.2"/>
     <property name="com.ibm.system.agent.path" value="/Users/seancampbell/Library/Java/JavaVirtualMachines/adopt-openj9-15.0.2/Contents/Home/lib"/>
-    <property name="user.dir" value="/Users/seancampbell/Documents/Repositories"/>
+    <property name="user.dir" value="/Users/seancampbell/Documents/Repositories/pitest-example"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>

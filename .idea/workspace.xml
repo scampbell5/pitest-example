@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0482b35-3dfc-448d-aad5-126ed085075c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pitest-bug.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Person2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.Person2Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.Person2Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.PersonTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.PersonTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.example.PersonTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.example.PersonTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Person2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/Person2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/PersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/org/example/Person2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/org/example/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/Person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/Person.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/Person2.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/PersonTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-PersonTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-org.example.Person2Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-org.example.PersonTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/org.example.Person2Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/org.example.PersonTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/org/example/Person2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/org/example/PersonTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1prNAMFCHrzE9pZLJt4gx2zGPUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0482b35-3dfc-448d-aad5-126ed085075c" name="Default Changelist" comment="" />
+      <created>1615937106133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615937106133</updated>
+      <workItem from="1615937107586" duration="772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
