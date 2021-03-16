@@ -5,56 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0482b35-3dfc-448d-aad5-126ed085075c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/pitest.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pitest-bug.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pitest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pitest.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/org/example/Person2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/org/example/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/Person2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161119/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161120/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161122/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161150/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161153/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/Person.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/Person2.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/org.example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/pit-reports/202103161154/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/PersonTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-PersonTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-org.example.Person2Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-org.example.PersonTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/org.example.Person2Test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/org.example.PersonTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/test-classes/org/example/Person2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/test-classes/org/example/PersonTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,19 +40,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,5 +65,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
