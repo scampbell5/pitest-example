@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0482b35-3dfc-448d-aad5-126ed085075c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/pitest.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pitest-bug.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/Person2.java" beforeDir="false" />
@@ -107,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615937106133</updated>
-      <workItem from="1615937107586" duration="1173000" />
+      <workItem from="1615937107586" duration="1219000" />
     </task>
     <servers />
   </component>
